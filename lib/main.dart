@@ -1,5 +1,5 @@
-import 'package:classico/currerncy_converter_material_page.dart';
 import 'package:flutter/material.dart';
+import "package:classico/currency_converter2.dart";
 // import 'package:flutter/rendering.dart';
 
 void main() {
@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
-    return  MaterialApp(
-      home: CurrencyConverterMaterialPage(),
+    return const MaterialApp(
+      home: CurrencyConverterMaterialPage2(),
     );
   }
 }

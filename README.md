@@ -1,2 +1,2 @@
 # classico
- flutter cureenecy converter app
+ flutter currenecy converter app
